@@ -1,5 +1,6 @@
 # Delphi-GEmail
 Delphi class to send an email using gmail.
+
 Класс Delphi для отправки электронной почты через Gmail
 
  Use sample:
